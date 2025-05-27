@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
     box-sizing:0;
     margin:0;
@@ -5,4 +6,13 @@
 header{
     padding: 1rem;
     background-color:red;
+=======
+*{
+    box-sizing:0;
+    margin:0;
+}
+header{
+    padding: 1rem;
+    background-color:red;
+>>>>>>> 814161f31cb024661fb29cf301d5536652a0276c
 }

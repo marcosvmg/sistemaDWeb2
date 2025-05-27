@@ -13,7 +13,7 @@ class AppController extends Controller
     $vantagem = [
     ['titulo' => 'Eloquent ORM', 'descricao' => 'ORM avançado com mapeamento objeto-relacional'],
     ['titulo' => 'Artisan', 'descricao' => 'Interface de linha de comando poderosa'],
-    // ... outros itens
+    // 
 ];
     return view('sobre', [
     'frm' => '(Laravel)',
